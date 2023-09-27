@@ -1,5 +1,9 @@
 # Desafio DIO Pokedex
 
+Desafio: Criar uma Pokedex baseado em um design do site Dribbble de Saepul Nahwan. Adaptando o design para mobile e browser.
+
+Link para visualização/navegação: https://dmxta.github.io/Pokedex/
+
 Feito com:
  - HTML
  - CSS
